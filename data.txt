@@ -1,0 +1,5 @@
+Name: Can
+Surname: Kurtulus
+Gender: Male
+Username: Young_Griff
+Job: Proffessional_Chef
